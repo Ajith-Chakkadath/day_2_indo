@@ -13,6 +13,10 @@ const Destination = () => {
            </div>
 
        </div>
+       <div className='mt-[50px]'>
+           
+
+       </div>
        
 
    </section>
